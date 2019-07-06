@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RangeExtension",
+	"Description": "Contains blueprint functions and blueprint DateRange",
+	"Category": "Other",
+	"CreatedBy": "Cl4nk",
+	"CreatedByURL": "https://fontesnicolas.wordpress.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RangeExtension",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
